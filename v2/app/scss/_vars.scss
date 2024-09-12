@@ -1,0 +1,44 @@
+$default-font: "Stolzl", sans-serif;
+$accent: #05D9AE;
+$preloader-light: #05D9AE;
+$preloader-dark: #005F8F;
+$bg-light: #fff;
+$bg-dark: #005F8F;
+$bg-main: #fff;
+$bg-header: #fff;
+$btn-dark: #3A3962;
+$btn-hover: darken($accent, 3%);
+$element-light: #fff;
+$element-dark: #3A3962;
+$text: #3A3962;
+$text-light: #fff;
+$text-dark: #272744;
+$text-gray: #8C949F;
+$text-light-gray: #C0C9D4;
+$text-footer-legal: #C0C9D4;
+$text-how-it-works: #fff;
+$text-who: #6496DC;
+$faq-active: #005F8F;
+$border-footer: rgba(0, 0, 0, 0.05);
+$border-how-it-works: #C0C9D4;
+$border-footer-legal: rgba(255, 255, 255, 0.1);
+$border-btn-footer: rgba(255, 255, 255, 0.3);
+$menu-footer-legal: rgba(255, 255, 255, 0.4);
+$form-font-size: 14px;
+$form-inactive: #C4C4C4;
+$pay-desc: rgba(255, 255, 255, 0.5);
+$dots-legal: rgba(255, 255, 255, 0.2);
+$for-someone-border: #05D9AE;
+$switch-shadow: #678599;
+$cookie-disclaimer: #EDF1FB;
+// Customization Bootstrap vars from "app/libs/bootstrap/scss/_variables.scss"
+$grid-gutter-width: 30px;
+$grid-columns: 12;
+$grid-breakpoints: (xs: 0, sm: 576px, md: 768px, lg: 992px, xl: 1310px);
+$container-max-widths: (sm: 540px, md: 720px, lg: 960px, xl: 1250px);
+
+$btn-radius: 4px;
+$btn-ani: background-color .2s ease, color .2s ease;
+$all-ani: all .2s ease;
+
+$gutter: $grid-gutter-width;

@@ -1,0 +1,35 @@
+$default-font: "SF Pro Text", sans-serif;
+$accent: #05D9AE;
+$preloader-light: #05D9AE;
+$preloader-dark: #678599;
+$bg-light: #fff;
+$bg-dark: #678599;
+$bg-main: #f3f4f6;
+$bg-header: #f3f4f6;
+$btn-dark: #012B23;
+$element-light: #fff;
+$element-dark: #000;
+$text: #000;
+$text-light: #fff;
+$text-dark: #012B23;
+$text-gray: rgba(0, 0, 0, 0.5);
+$text-light-gray: rgba(0, 0, 0, 0.4);
+$faq-active: #678599;
+$border-footer: rgba(0, 0, 0, 0.05);
+$border-footer-legal: rgba(255, 255, 255, 0.1);
+$menu-footer-legal: rgba(255, 255, 255, 0.4);
+$form-font-size: 14px;
+$form-inactive: #C4C4C4;
+$pay-desc: rgba(255, 255, 255, 0.5);
+$text-footer-legal: rgba(255, 255, 255, 0.5);
+$border-btn-footer: rgba(255, 255, 255, 0.3);
+$dots-legal: rgba(255, 255, 255, 0.2);
+$for-someone-border: #A5ABB0;
+$switch-shadow: #678599;
+// Customization Bootstrap vars from "app/libs/bootstrap/scss/_variables.scss"
+$grid-gutter-width: 30px;
+$grid-columns: 12;
+$grid-breakpoints: (xs: 0, sm: 576px, md: 768px, lg: 992px, xl: 1310px);
+$container-max-widths: (sm: 540px, md: 720px, lg: 960px, xl: 1250px);
+
+$gutter: $grid-gutter-width;

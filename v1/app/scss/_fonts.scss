@@ -1,0 +1,65 @@
+/* SF Pro Text */
+@font-face {
+  font-family: "SF Pro Text";
+
+  src: url("../fonts/SFProText/SF-Pro-Text-Regular.woff") format("woff"), /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url("../fonts/SFProText/SF-Pro-Text-Regular.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SF Pro Text";
+
+  src: url("../fonts/SFProText/SF-Pro-Text-Semibold.woff") format("woff"), /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url("../fonts/SFProText/SF-Pro-Text-Semibold.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SF Pro Text";
+
+  src: url("../fonts/SFProText/SF-Pro-Text-Bold.woff") format("woff"), /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url("../fonts/SFProText/SF-Pro-Text-Bold.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SF Pro Text";
+
+  src: url("../fonts/SFProText/SF-Pro-Text-Heavy.woff") format("woff"), /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url("../fonts/SFProText/SF-Pro-Text-Heavy.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
+  font-weight: 900;
+  font-style: normal;
+}
+
+
+/* SF Pro Display */
+@font-face {
+  font-family: "SF Pro Display";
+
+  src: url("../fonts/SFProDisplay/SFProDisplay-Regular.woff") format("woff"), /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url("../fonts/SFProDisplay/SFProDisplay-Regular.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+
+  src: url("../fonts/SFProDisplay/SFProDisplay-Bold.woff") format("woff"), /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url("../fonts/SFProDisplay/SFProDisplay-Bold.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SF Pro Display";
+
+  src: url("../fonts/SFProDisplay/SFProDisplay-Black.woff") format("woff"), /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url("../fonts/SFProDisplay/SFProDisplay-Black.woff2") format("woff2"); /* Chrome 26+, Opera 23+, Firefox 39+ */
+  font-weight: 900;
+  font-style: normal;
+}
